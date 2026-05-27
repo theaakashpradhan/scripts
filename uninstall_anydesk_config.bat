@@ -1,3 +1,5 @@
+# save this file as .bat file and open the file to run it.
+
 @echo off
 
 REM Set source and destination folders for the Roaming AnyDesk folder
